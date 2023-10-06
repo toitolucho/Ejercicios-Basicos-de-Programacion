@@ -11,9 +11,9 @@ Ejemplos
 |Entrada					|Salida           |
 | ------------- |:-------------------------------:|         
 |20						|Monto Ahorrado = 45|               |
-|5						|Nro de Dias negativos = 1          |
-|10						|Nro de Dias Positivos = 3          |
-|10						|No Alcanzo la Meta, le falto 5     |
+|5	 					|Nro de Dias negativos = 1          |
+|10	  					|Nro de Dias Positivos = 3          |
+|10   					|No Alcanzo la Meta, le falto 5     |
 |15                     |                                   |
 |0                      |                                   |
 |20                     |                                   |
