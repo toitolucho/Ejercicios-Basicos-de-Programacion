@@ -8,20 +8,21 @@ Salida
 Determina El monto Ahorrado, Cuantos dias no ahorro, Cuanto dias ahorro lo establecido como meta, adicionalmente determina si logro alcanzar su acometido.
 
 Ejemplos
-Entrada					Salida
-20						Monto Ahorrado = 45
-5						Nro de Dias negativos = 1
-10						Nro de Dias Positivos = 3
-10						No Alcanzo la Meta, le falto 5
-15
-0
-20
-
-100						Monto Ahorrado = 380
-6						Nro de Dias negativos = 2
-10						Nro de Dias Positivos = 4
-5						Alcanzo la Meta, Con demasia de 320
-5
-0
-100
-100
+|Entrada					|Salida           |
+| ------------- |:-------------------------------:|         
+|20						|Monto Ahorrado = 45|               |
+|5						|Nro de Dias negativos = 1          |
+|10						|Nro de Dias Positivos = 3          |
+|10						|No Alcanzo la Meta, le falto 5     |
+|15                     |                                   |
+|0                      |                                   |
+|20                     |                                   |
+| ------------- |:-------------------------------:|         
+|100					|	Monto Ahorrado = 380            |
+|6						|Nro de Dias negativos = 2          |
+|10						|Nro de Dias Positivos = 4          |
+|5						|Alcanzo la Meta, Con demasia de 320|
+|5                      |                                   |
+|0                      |                                   |
+|100                    |                                   |
+|100                    |                                   |
