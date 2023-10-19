@@ -18,7 +18,7 @@ Ejemplos
 |0                      |                                   |
 |20                     |                                   |
 | ------------- |:-------------------------------:|         
-|100					|	Monto Ahorrado = 380            |
+|100					|Monto Ahorrado = 380            |
 |6						|Nro de Dias negativos = 2          |
 |10						|Nro de Dias Positivos = 4          |
 |5						|Alcanzo la Meta, Con demasia de 320|
