@@ -11,8 +11,8 @@ Asuma que todos los meses tienen 30 dias
 
 ## Ejemplos
 
-|         Entrada          | Salida |
-| :----------------------: | :----: |
-| 21 1 2023  |   20 dias de 2023   |
-| 21 11 2023 |   320 dias de 2023  |
-| 17 3 2022  |   76 dias de 2022   |
+|         Entrada          | Salida 			|
+| :----------------------: | :----: 			|
+| 21 1 2023  			   |   20 dias de 2023  |
+| 21 11 2023 			   |   320 dias de 2023 |
+| 17 3 2022  			   |   76 dias de 2022  |
