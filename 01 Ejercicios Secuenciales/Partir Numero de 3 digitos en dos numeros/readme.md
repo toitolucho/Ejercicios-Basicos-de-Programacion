@@ -2,7 +2,7 @@ Dado un numero de 3 cifras significativas, realizar un algoritmo que permita enc
 Entrada
 Consiste en un numero n entero de 3 cifras.
 Salida
-Todas las alternativas posibles de segmentar el numero n
+Todas las alternativas posibles de segmentar el numero n en dos partes
 
 Ejemplo
 321			3 21 
