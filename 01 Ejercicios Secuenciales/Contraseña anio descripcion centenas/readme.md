@@ -1,3 +1,4 @@
+
 # Contraseña Año Descripción Centenas
 
 Un niño desea descifrar la contraseña que comúnmente coloca la operadora de manera por defecto a las instalaciones de _wifi_ y publicar por internet como descubrirlo. 
@@ -9,11 +10,10 @@ Para poner publico la contraseña esta debe colocarse como una combinación de l
 
 El año de instalación siempre será mayor o igual a **9000**.
 
-**Ejemplo**
+## **Ejemplo**
 
-## Entrada
 
-|  |  |   |  |   
+| Entrada |Salida  |   |  |   
 |--|--|--|--|
 | 9853 |3589  |
 |      |      | 13442 |    | 
