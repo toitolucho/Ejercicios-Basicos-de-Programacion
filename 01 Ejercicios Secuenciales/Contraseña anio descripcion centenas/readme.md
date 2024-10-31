@@ -1,4 +1,5 @@
 
+
 # Contraseña Año Descripción Centenas
 
 Un niño desea descifrar la contraseña que comúnmente coloca la operadora de manera por defecto a las instalaciones de _wifi_ y publicar por internet como descubrirlo. 
@@ -16,11 +17,12 @@ El año de instalación siempre será mayor o igual a **9000**.
 | Entrada |Salida  |   |  |   
 |--|--|--|--|
 | 9853 |3589  |
-|      |      | 13442 |    | 
-|      |      | 1DM+3UM+4C+4D+2U |
+|      | 13442 | |   |  | 
+|      |  1DM+3UM+4C+4D+2U    |  |    | 
+|      |      |  |
 | 9325 |5239  |
-|      |      |14564|  |  |
-|      |      |1DM+4UM+5C+6D+4U|  |  |
+|      |  14564    ||  |  |
+|      |   1DM+4UM+5C+6D+4U   ||  |  |
 
 
 
