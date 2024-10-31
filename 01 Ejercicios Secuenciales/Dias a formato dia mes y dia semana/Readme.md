@@ -1,4 +1,5 @@
 
+
 # Días a Formato Día Mes y Día  Semana
 
 Dado el numero del día del año, determinar la fecha en formato **dd/mm**, e identifica el numero del día de la semana.
@@ -13,10 +14,11 @@ Para el caso de los múltiplos del **7**, la salida valida del día de la semana
 | Entrada |Salida  |
 |--|--|
 | 29 | 1/2 |
-|  |1    |
-|    |    |
-| 60 |4/3  |
+|  |1 |
+|||
+|  60|4/3 |
 |  |4    |
-|    |    |
+|||
 | 78 | 22/3|
 |  |1    |
+|||
