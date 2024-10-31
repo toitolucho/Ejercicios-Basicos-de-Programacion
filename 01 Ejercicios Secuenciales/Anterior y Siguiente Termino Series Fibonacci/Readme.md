@@ -1,4 +1,5 @@
 
+
   
 
 # Anterior y Siguiente Termino Series Fibonacci
@@ -25,8 +26,8 @@ Dado un dos valores de la serie de forma consecutiva, determina el siguiente y e
 
 
 |Entrada|Salida  |
-|-|--|
-| 8 -13| 5- 8- 13- 21 |
-| 3- 5| 2- 3- 5- 8 |
+|-     |--       |
+| 8  13| 5- 8- 13- 21 |
+| 3   5| 2- 3- 5- 8 |
 
  
