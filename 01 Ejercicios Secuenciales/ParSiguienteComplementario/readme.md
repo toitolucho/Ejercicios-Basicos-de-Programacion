@@ -1,3 +1,4 @@
+
 # Par Siguiente Complementario
 
 Dado un par de calzado compuesto por la siguiente información: 
@@ -22,5 +23,7 @@ Par complementario siguiente representado en literal.
 |Entrada | Salida  |
 |--|--|
 | 30  -  I |  31 - Derecho   |
+|||
 | 40  -  D |  41 - Izquierdo |
+|||
 
