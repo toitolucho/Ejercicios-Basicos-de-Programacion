@@ -1,3 +1,4 @@
+
 # Numero de 5 Dígitos sin el Digito del Medio
 
 Dado un numero de **5** dígitos, forma otro numero compuesto por los dos dígitos extremos del numero dado, por ejemplo si el numero fuese **12345**, se espera obtener **1245**
@@ -11,7 +12,8 @@ Un solo numero numero
 Otro numero sin el digito del medio
 
 ## Ejemplos
-|Entrada|Salida  |
+|Entrada|Salida |
 |--|--|
 | 98796	 | 9896 |
+|   |   |
 | 85963 | 8563 |
