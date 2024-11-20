@@ -5,7 +5,7 @@ Dada la duración de una canción y el tiempo en el que actualmente se encuentra
 ## Entrada
 
 Inicialmente te facilitaran el tiempo de duración de la canción en formato **mm:ss**
-
+##Salida
 A continuación te facilitaran el tiempo actual en el que se encuentra la preproducción
 
 ## Ejemplo
