@@ -22,8 +22,8 @@ Par complementario siguiente representado en literal.
 ## Ejemplos
 |Entrada | Salida  |
 |--|--|
-| 30  -  I |  31 - Derecho   |
+| 30    I |  31 - Derecho   |
 |||
-| 40  -  D |  41 - Izquierdo |
+| 40    D |  41 - Izquierdo |
 |||
 
