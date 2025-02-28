@@ -1,21 +1,30 @@
-Dado el numero de placa de una movilidad, transito desea notificar los choferes de movilidades a traves de una aplicacion, que dias son habiles para que ingresen y que dia se le ha restringido a la movidilidad en funcion al numero de placa.
-A continuacion se detalla los dias de restrinccion en funcion a la terminacion del ultimo digito de la placa.
-Nro Placa			Dia Restringido
-0-1					Lunes 
-2-3					Martes
-4-5					Miercoles
-6-7					Jueves
-8-9					Viernes
+# Restricción Vehicular
 
-Entrada
+Dado el numero de placa de una movilidad, transito desea notificar los choferes de movilidades a través de una aplicación, que días son hábiles para que ingresen y que día se le ha restringido a la movilidad en función al numero de placa.
+
+A continuación se detalla los días de restricción en función a la terminación del ultimo digito de la placa.
+|  Nro Placa	|  Dia Restringido|
+|--|--|
+|  0-1	| Lunes  |
+| 2-3	 |  Martes|
+| 4-5	 |  Miércoles|
+|  6-7	|  Jueves|
+|  8-9		| Viernes |
+
+## Entrada
+
 La primera linea contiene un numero entero que representa el numero de placa
-Salida
-Un mensaje que indique que dias tiene libre y el dia restringido
 
-Ejemplos
-Entrada				Salida
-5780				Ingresa : Martes, Miercoles, Jueves y Viernes
-					Restringido: Lunes 
-					
-8967				Ingresa : Lunes, Martes, Miercoles y Viernes
-					Restringido: Jueves
+## Salida
+
+Un mensaje que indique que días tiene libre y el día restringido
+
+## **Ejemplos**
+
+| Entrada |Salida  |
+|--|--|
+| 5780 | Ingresa : Martes, Miércoles, Jueves y Viernes |
+|  |  Restringido: Lunes |
+|  |  |
+| 8967	 | Ingresa : Lunes, Martes, Miércoles y Viernes |
+|  |  Restringido: Jueves|

@@ -1,15 +1,24 @@
-Dado el numero del dia del año, determinar la fecha en formato dd/mm, e identifica el numero del dia de la semana.
-Por Ejemplo, si nos facilitacen 321, tendriamos que determinar en que mes cae este dia y a que dia corresponde de dicho mes, y adicionalmente cual es el dia de la semana numeral.
-Considera que los meses tienen 28 dias y que el primer dia del año siempre es Lunes. Nunca se ingresara un multiplo de 28.
-Para el caso de los multiplos del 7, la salida valida del dia de la semana para domingo puede ser 0
 
-Ejemplos
-Entrada				Salida
-29					1/2
-					1
 
-60					4/3
-					4
+# Días a Formato Día Mes y Día  Semana
 
-78					22/3					
-					1
+Dado el numero del día del año, determinar la fecha en formato **dd/mm**, e identifica el numero del día de la semana.
+
+Por Ejemplo, si nos facilitasen **321**, tendríamos que determinar en que mes cae este día y a que día corresponde de dicho mes, y adicionalmente cual es el día de la semana numeral.
+
+Considera que los meses tienen **28** días y que el primer día del año siempre es Lunes. Nunca se ingresara un múltiplo de **28**.
+
+Para el caso de los múltiplos del **7**, la salida valida del día de la semana para domingo puede ser **0**
+
+## Ejemplos
+| Entrada |Salida  |
+|--|--|
+| 29 | 1/2 |
+|  |1 |
+|||
+|  60|4/3 |
+|  |4    |
+|||
+| 78 | 22/3|
+|  |1    |
+|||
