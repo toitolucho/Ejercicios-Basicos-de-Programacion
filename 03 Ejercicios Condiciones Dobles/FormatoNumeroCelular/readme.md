@@ -1,0 +1,4 @@
+Dado el numero de celular se requiere determinar si dicho numero puede ser derivado a una llamada local, para ello el mensajero de la aplicacion debe determinar si el numero tiene el codigo de la region y si la empresa de telecomunicaciones tiene registrado ese numero como valido.
+El codigo de la region comunmente es un numero de 3 digitos, por ejemplo en bolivia 591.
+Despues del codigo de la region se tiene el numero de celular, que comunmente en Bolivia empieza con 6 o 7, ya que las empresas de telecomunicaciones lo tiene asi registrado.
+Considerando que se tendra un numero de celular que incluye toda esta informacion determina si el numero es numero valido, si es de la region, si es esta registrado en la empresa de telecomunicaciones.
