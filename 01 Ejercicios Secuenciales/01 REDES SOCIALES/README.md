@@ -25,7 +25,7 @@ Las horas consumidas anualmente y el porcentaje de días consumidos.
 |             |                                                                       |
 | 20 30 40<br>15 | Consumo anual = 2700 horas<br>Porcentaje en días = 33.4821428571%     |
 |             |                                                                       |
-| 20 40 30<br>15 | Consumo anual = 2700 horas<br>Porcentaje en días = 33.4821428571%     |
+| 20 40 30<br>15 | Consumo anual = ___ horas<br>Porcentaje en días = ____     |
 |             |                                                                       |
-| 5 5 5<br>50    | Consumo anual = 170 horas<br>Porcentaje en días = 2.11%               |
+| 5 5 5<br>50    | Consumo anual = ___ horas<br>Porcentaje en días = ____               |
 
