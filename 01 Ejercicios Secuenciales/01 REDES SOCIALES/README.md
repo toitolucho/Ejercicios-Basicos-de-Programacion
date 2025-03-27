@@ -1,8 +1,8 @@
 
 # REDES SOCIALES
 
-Ilsen se ha dado cuenta que pasa mucho tiempo en las redes sociales, ya que recientemente ha recibido llamadas de atención por parte de su supervisor, es por ello que ha optado por pedirte ayuda para que le colabores a calcular cuanto tiempo aproximadamente pasa durante una jornada en el dia en sus redes sociales
-Ilsen en promedio revisa su Whatsapp, Facebook e Instagram a, b y c veces al dia respectivamente cada aplicación y comúnmente mira en promedio n publicaciones en cada red social que le consumen aproximadamente 0.5 minutos por cada publicación .
+Ilsen se ha dado cuenta que pasa mucho tiempo en las redes sociales, ya que recientemente ha recibido llamadas de atención por parte de su supervisor, es por ello que ha optado por pedirte ayuda para que le colabores a calcular cuanto tiempo aproximadamente pasa durante una jornada en el dia en sus redes sociales<br>
+Ilsen en promedio revisa su Whatsapp, Facebook e Instagram a, b y c veces al dia respectivamente cada aplicación y comúnmente mira en promedio n publicaciones en cada red social que le consumen aproximadamente 0.5 minutos por cada publicación <br>
 Calcula cuántas horas consume a lo largo de un año y que porcentaje representa en días de un año ese consumo, considerando que solamente revisa sus redes sociales los días hábiles de la semana, excluyendo los fines de semana. Así mismo considera que TODOS los meses tienen 28 días y un año tiene 336 días y el primer día de TODOS los años es un LUNES.
 
 
