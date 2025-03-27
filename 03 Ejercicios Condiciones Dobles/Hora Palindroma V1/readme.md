@@ -17,9 +17,12 @@ La entrada consiste en dos números enteros de dos dígitos que representan la h
 
 Indicar si la hora y el minuto conforman una hora palíndroma.
 
-### Ejemplos
+## Ejemplos
 
-#### Ejemplo 1
+| ENTRADA | SALIDA                          |
+|---------|---------------------------------|
+| 15 51   | 15:51 Si es hora Palindroma     |
+| 15 33   | 15:33 No es hora Palindroma     |
+| 21 12   | 21:12 Si es hora Palindroma     |
 
-**Entrada:**
 
