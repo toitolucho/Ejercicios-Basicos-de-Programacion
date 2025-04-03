@@ -4,7 +4,7 @@
 Realiza un programa que permita generar el calendario de un determinado mes. Se asume que el primer día del mes es un **Lunes**. Se te facilitará el mes respectivo como un valor entero. A continuación, utiliza la siguiente lista para representar el calendario en función al número de días:
 
 | **NroMes**| **Mes**         | **Días** |
-|-----------------|----------|
+|---|--------------|----------|
 | 1 | Enero        | 31       |
 | 2 | Febrero      | 28       |
 | 3 | Marzo        | 31       |
