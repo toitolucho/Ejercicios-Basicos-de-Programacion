@@ -17,17 +17,12 @@ Las horas consumidas anualmente y el porcentaje de días consumidos.
 
 ### Ejemplo:
 
-| ENTRADA     | SALIDA                                                                |
-|-------------|-----------------------------------------------------------------------|
-| 10 5 2<br>5    | Consumo en anual = 170 horas<br>Porcentaje en días = 2.11%            |
-|             |                                                                       |
-| 15 0 10<br>3   | Consumo en anual = 150 horas<br>Porcentaje en días = 1.86%            |
-|             |                                                                       |
-| 10 10 10<br>8  | Consumo en anual = 480 horas<br>Porcentaje en días = 5.95%            |
-|             |                                                                       |
-| 20 30 40<br>15 | Consumo anual = 2700 horas<br>Porcentaje en días = 33.4821428571%     |
-|             |                                                                       |
-| 20 40 30<br>15 | Consumo anual = ___ horas<br>Porcentaje en días = ____     |
-|             |                                                                       |
-| 5 5 5<br>50    | Consumo anual = ___ horas<br>Porcentaje en días = ____               |
+| **Entrada**       | **Salida**                                      |
+|-------------------|-------------------------------------------------|
+| 10 5 2 <br> 5     | Consumo anual = 170.00 horas <br> Porcentaje en días = 2.11% |
+| 15 0 10 <br> 3    | Consumo anual = 150.00 horas <br> Porcentaje en días = 1.86% |
+| 10 10 10 <br> 8   | Consumo anual = 480.00 horas <br> Porcentaje en días = 5.95% |
+| 20 30 40 <br> 15  | Consumo anual = 2700.00 horas <br> Porcentaje en días = 33.48% |
+| 20 40 30 <br> 15  | Consumo anual = 2700.00 horas <br> Porcentaje en días = 33.48% |
+| 5 5 5 <br> 50     | Consumo anual = 1500.00 horas <br> Porcentaje en días = 18.60% |
 
