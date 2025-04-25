@@ -25,4 +25,4 @@ Imprime la cantidad de operaciones de Depósitos, Retiros y los montos de ambos 
 
 | **Entrada** | **Salida** |
 |------------|------------|
-| 0 | Nro Total Depósitos = 0, Monto = 0 <br> Nro Total Retiros = 0, Monto = 0 |
+| 0<br>-10 | Nro Total Depósitos = 0, Monto = 0 <br> Nro Total Retiros = 0, Monto = 0 |
