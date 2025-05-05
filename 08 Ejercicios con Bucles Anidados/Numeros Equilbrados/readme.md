@@ -61,7 +61,3 @@ Además, por cada número `x`, indica si es equilibrado o no.
 | 123456       | NO                       |
 |              | Total = 1                |
 
-### Notas
-
-- SP: Suma de los dígitos pares.
-- SI: Suma de los dígitos impares.
