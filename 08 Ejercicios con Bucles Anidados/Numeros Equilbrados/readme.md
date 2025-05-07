@@ -17,11 +17,12 @@ Además, por cada número `x`, indica si es equilibrado o no.
 
 ### Ejemplos
 
+
+
 | Entrada      | Salida                   |
 |--------------|--------------------------|
-| 3            |                          |
-| 12           | NO                       |
-| 1236587      | SI                       |
-| 65734162231  | SI                       |
-|              | Total = 2                |
+| 3 <br> 12<br>  1236587<br>65734162231        | <br>NO<br>SI<br>SI<br> Total = 2                         |
+| `3`<br>`1234`<br>`4321`<br>`246` | <br>`NO`<br>`NO`<br>`NO`<br>`Total = 0` |
+| `2`<br>`135`<br>`24` | <br>`NO`<br>`NO`<br>`Total = 0` |
+| `10`<br>`12`<br>`1236587`<br>`65734162231`<br>`111`<br>`2468`<br>`987654321`<br>`1010`<br>`2020`<br>`13579`<br>`86420` |<br> `NO`<br>`SI`<br>`SI`<br>`NO`<br>`NO`<br>`NO`<br>`NO`<br>`SI`<br>`SI`<br>`NO`<br>`Total = 4` |
 
