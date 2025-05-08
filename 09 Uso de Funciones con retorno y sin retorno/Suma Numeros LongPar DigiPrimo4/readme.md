@@ -26,9 +26,10 @@ Calcula la suma de los números que tienen longitud par y al menos 4 dígitos pr
 | Entrada | Salida |
 |---------|--------|
 | `5`<br>`32159`<br>`3215648`<br>`32152`<br>`352563`<br>`827583` | <br>`CDP=3  Long=5`<br>`CDP=3  Long=7`<br>`CDP=4  Long=5`<br>`CDP=5  Long=6 *`<br>`CDP=4  Long=6 *`<br>`Suma = 1180146` |
-| `4`<br>`12345`<br>`987654`<br>`3212`<br>`7654321` |<br> `CDP=3  Long=5`<br>`CDP=3  Long=6`<br>`CDP=4  Long=4 *`<br>`CDP=4  Long=7 *`<br>`Suma = 1300191` |
-| `3`<br>`135790`<br>`246824`<br>`2222233` |<br> `CDP=4  Long=6 *`<br>`CDP=4  Long=6 *`<br>`CDP=4  Long=7 *`<br>`Suma = 6031282` |
-| `2`<br>`567890`<br>`234567` |<br> `CDP=4  Long=6 *`<br>`CDP=3  Long=6`<br>`Suma = 567890` |
+| `4`<br>`12345`<br>`987654`<br>`32127`<br>`7654321` |<br> `CDP=3  Long=5`<br>`CDP=2  Long=6`<br>`CDP=4  Long=5`<br>`CDP=4  Long=7`<br>`Suma = 0` |
+| `5`<br>`135790`<br>`246824`<br>`2222233`<br>`222223`<br>`222228` | <br>`CDP=3  Long=6`<br>`CDP=2  Long=6`<br>`CDP=7  Long=7`<br>`CDP=6  Long=6`<br>`CDP=5  Long=6`<br>`Suma = 444451` |
+| `2`<br>`567890`<br>`234567` | <br>`CDP=2  Long=6`<br>`CDP=4  Long=6`<br>`Suma = 234567` |
+
 
 ---
 
@@ -45,3 +46,6 @@ Calcula la suma de los números que tienen longitud par y al menos 4 dígitos pr
 - **CDP** se refiere a la cantidad de dígitos primos en el número.
 - **Long** se refiere a la longitud del número.
 - Para que un número sea considerado, debe tener **longitud par** y al menos **4 dígitos primos**.
+
+
+
