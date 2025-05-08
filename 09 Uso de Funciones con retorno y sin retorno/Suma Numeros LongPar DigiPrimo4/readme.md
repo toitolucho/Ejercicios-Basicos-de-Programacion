@@ -25,10 +25,10 @@ Calcula la suma de los números que tienen longitud par y al menos 4 dígitos pr
 
 | Entrada | Salida |
 |---------|--------|
-| `5`<br>`32159`<br>`3215648`<br>`32152`<br>`352563`<br>`827583` | `CDP=3  Long=5`<br>`CDP=3  Long=7`<br>`CDP=4  Long=5`<br>`CDP=5  Long=6 *`<br>`CDP=4  Long=6 *`<br>`Suma = 1180146` |
-| `4`<br>`12345`<br>`987654`<br>`3212`<br>`7654321` | `CDP=3  Long=5`<br>`CDP=3  Long=6`<br>`CDP=4  Long=4 *`<br>`CDP=4  Long=7 *`<br>`Suma = 1300191` |
-| `3`<br>`135790`<br>`246824`<br>`2222233` | `CDP=4  Long=6 *`<br>`CDP=4  Long=6 *`<br>`CDP=4  Long=7 *`<br>`Suma = 6031282` |
-| `2`<br>`567890`<br>`234567` | `CDP=4  Long=6 *`<br>`CDP=3  Long=6`<br>`Suma = 567890` |
+| `5`<br>`32159`<br>`3215648`<br>`32152`<br>`352563`<br>`827583` | <br>`CDP=3  Long=5`<br>`CDP=3  Long=7`<br>`CDP=4  Long=5`<br>`CDP=5  Long=6 *`<br>`CDP=4  Long=6 *`<br>`Suma = 1180146` |
+| `4`<br>`12345`<br>`987654`<br>`3212`<br>`7654321` |<br> `CDP=3  Long=5`<br>`CDP=3  Long=6`<br>`CDP=4  Long=4 *`<br>`CDP=4  Long=7 *`<br>`Suma = 1300191` |
+| `3`<br>`135790`<br>`246824`<br>`2222233` |<br> `CDP=4  Long=6 *`<br>`CDP=4  Long=6 *`<br>`CDP=4  Long=7 *`<br>`Suma = 6031282` |
+| `2`<br>`567890`<br>`234567` |<br> `CDP=4  Long=6 *`<br>`CDP=3  Long=6`<br>`Suma = 567890` |
 
 ---
 
