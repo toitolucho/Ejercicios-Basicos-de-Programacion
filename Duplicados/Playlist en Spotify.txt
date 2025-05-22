@@ -1,0 +1,35 @@
+
+
+
+
+# A-Playlist en Spotify
+
+Spotify desea calcular el tiempo de reproducción de un playlist que tiene las 3 canciones que más escucha Fernanda, para ello se te pide que implementes un algoritmo que permita sumar estos tiempos y muestre el tiempo de duración de los mismos en horas, minutos y segundos.
+
+Sugerencia: para poder sumar los tiempos, trabaja todos los tiempos en una sola medida, posteriormente realiza el trabajo contrario de conversión de unidades para convertir el tiempo encontrado al formato que te solicitan.
+
+**Datos de Entrada**
+
+La entrada consiste en una terna de tiempos que tiene el formato **mm:ss**, la primera línea representa el tiempo de la primera canción compuesta por dos números enteros que representan el minuto y los segundos *m1*, *s1*, a continuación la segunda línea representa el tiempo de duración de la segunda canción *m2*, *s2*, y finalmente la tercera línea, representa el tiempo de la tercera canción en el mismo formato *m3, s3*
+
+**Datos de Salida**
+
+Calcula el tiempo total en horas y posteriormente, imprime una combinación de tres números enteros que representan en formato **hh:mm:ss** (horas, minutos y segundos), el tiempo de duración del playlist
+
+  
+
+**Ejemplos**
+|Entrada|Salida  |
+|--|--|-- |--|--  |
+|3 40 |0.18472 | |  |  |
+| 5 10 |0:11:05 | |  |  |
+| 2 15 |  | |  |  |
+|  |  |
+|45 20  |1.505  | |  |  |
+|  15 20| 1:31:20 | |  |  |
+| 30 40 |  | |  |  |
+|  |  | |  |  |
+| 3 40 | 1.2416 | |  |  |
+| 25 10 | 1:14:30 | |  |  |
+| 45 40 |  | |  |  |
+|  |  |
