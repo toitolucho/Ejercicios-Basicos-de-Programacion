@@ -24,11 +24,8 @@ Suponiendo que ambos juegan de forma óptima para lograrlo, ¿quién se comerá 
 
 - $1 \le T \le 95$
 - $1 \le N \le 600{,}000$
-- $S_{1..N} \in \{$'`A`', '`B`'$\}$
+- $S_{1..N} \ dentro de \{$'`A`', '`B`'$\}$
 
-- \( 1 \le T \le 95 \)
-- \( 1 \le N \le 600{,}000 \)
-- \( S_{1..N} \in \{ 'A', 'B' \} \)
 
 ---
 
